@@ -1,1 +1,1 @@
-# AI-Mafia---Machine-Learning-Projects
+Kickstart to Machine Learning
